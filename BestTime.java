@@ -1,4 +1,4 @@
-public class Solution {
+public class BestTime {
     public int maxProfit(int[] a) {
         if(a.length >=2)
         {
