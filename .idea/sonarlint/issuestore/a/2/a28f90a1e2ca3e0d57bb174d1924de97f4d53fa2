@@ -1,0 +1,12 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ8²Â•ƒ».
+U
+java:S1197"8Move the array designator from the variable to the type.(òÒØ¾8í„“ƒ».
+X	java:S125"<This block of commented-out lines of code should be removed.(ò ¬ñ8‘–».
+Z
+java:S1197$"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ8Î¯œ•».
+U
+java:S1197%"8Move the array designator from the variable to the type.(ßŠ¶Ä8ÁÜž•».
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡ò†þÿÿÿÿ8¡¨–•».
+Ž
+java:S1130$"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(²Á€œüÿÿÿÿ8«˜ •».
